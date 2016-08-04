@@ -1,0 +1,33 @@
+_repo: The-Bell-Ringer-of-Angel-s-and-Other-Stories_2676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: Bret Harte puts together a collection of 8 short stories including The
+  bell ringer of angels, Johnny Boy, Young Robin Gray, The sheriff of Siskyou, A rose
+  of Glenbogie, The mystery of the hacienda, Chu Chu, and My first book.
+gutenberg_issued: '2006-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+tableOfContents: The bell-ringer of Angel's -- Johnnyboy -- Young Robin Gray -- The
+  sheriff of Siskyou -- A rose of Glenbogie -- The mystery of the hacienda -- Chu
+  chu -- My first book
+title: The Bell-Ringer of Angel's, and Other Stories
+url: http://www.gutenberg.org/ebooks/2676
