@@ -1,5 +1,8 @@
 _repo: The-Bell-Ringer-of-Angel-s-and-Other-Stories_2676
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -12,6 +15,8 @@ creator:
 description: Bret Harte puts together a collection of 8 short stories including The
   bell ringer of angels, Johnny Boy, Young Robin Gray, The sheriff of Siskyou, A rose
   of Glenbogie, The mystery of the hacienda, Chu Chu, and My first book.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2676#The-Bell-Ringer-of-Angel-s-and-Other-Stories
 gutenberg_issued: '2006-05-25'
 gutenberg_type: Text
 identifiers:
